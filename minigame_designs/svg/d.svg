@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="667" viewBox="0 0 375 667">
+  <defs>
+    <clipPath id="clip-d">
+      <rect width="375" height="667"/>
+    </clipPath>
+  </defs>
+  <g id="d" clip-path="url(#clip-d)">
+    <rect width="375" height="667" fill="#fff"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(69 17)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="27" cy="27" r="27" stroke="none"/>
+      <circle cx="27" cy="27" r="26.5" fill="none"/>
+    </g>
+    <text id="alex06" transform="translate(142 51)" fill="#343434" font-size="20" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">alex06</tspan></text>
+    <g id="Group_3" data-name="Group 3">
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(17 89)" fill="#fff" stroke="#b1b1b1" stroke-width="1">
+        <rect width="79" height="52" rx="17" stroke="none"/>
+        <rect x="0.5" y="0.5" width="78" height="51" rx="16.5" fill="none"/>
+      </g>
+      <g id="Group_1" data-name="Group 1" transform="translate(0 -22)">
+        <text id="hiii_" data-name="hiii!!" transform="translate(36 125)" fill="#343434" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="19">hiii!!</tspan></text>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(0 63)">
+      <g id="Rectangle_1-2" data-name="Rectangle 1" transform="translate(17 89)" fill="#fff" stroke="#b1b1b1" stroke-width="1">
+        <rect width="185" height="52" rx="17" stroke="none"/>
+        <rect x="0.5" y="0.5" width="184" height="51" rx="16.5" fill="none"/>
+      </g>
+      <g id="Group_1-2" data-name="Group 1" transform="translate(0 -22)">
+        <text id="my_name_is_alex" data-name="my name is alex" transform="translate(36 125)" fill="#343434" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="19">my name is alex</tspan></text>
+      </g>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(0 129)">
+      <g id="Rectangle_1-3" data-name="Rectangle 1" transform="translate(17 89)" fill="#fff" stroke="#b1b1b1" stroke-width="1">
+        <rect width="242" height="76" rx="17" stroke="none"/>
+        <rect x="0.5" y="0.5" width="241" height="75" rx="16.5" fill="none"/>
+      </g>
+      <g id="Group_1-3" data-name="Group 1" transform="translate(0 -22)">
+        <text id="let_me_introduce_you_to_the_world_of_hacking" data-name="let me introduce you to the world of hacking" transform="translate(36 125)" fill="#343434" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="19">let me introduce you to </tspan><tspan x="0" y="43">the world of hacking</tspan></text>
+      </g>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(0 216)">
+      <g id="Rectangle_1-4" data-name="Rectangle 1" transform="translate(17 89)" fill="#fff" stroke="#b1b1b1" stroke-width="1">
+        <rect width="205" height="52" rx="17" stroke="none"/>
+        <rect x="0.5" y="0.5" width="204" height="51" rx="16.5" fill="none"/>
+      </g>
+      <g id="Group_1-4" data-name="Group 1" transform="translate(0 -22)">
+        <text id="what_s_your_name_" data-name="what&apos;s your name?" transform="translate(36 125)" fill="#343434" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="19">what&apos;s your name?</tspan></text>
+      </g>
+    </g>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(17 595)" fill="none" stroke="#b1b1b1" stroke-width="1">
+      <rect width="341" height="52" rx="26" stroke="none"/>
+      <rect x="0.5" y="0.5" width="340" height="51" rx="25.5" fill="none"/>
+    </g>
+    <text id="Type_your_name..." data-name="Type your name..." transform="translate(37 628)" fill="#343434" font-size="20" font-family="Roboto-Regular, Roboto" opacity="0.61"><tspan x="0" y="0">Type your name...</tspan></text>
+    <g id="arrow_back_ios-24px" transform="translate(28 26)" opacity="0.73">
+      <path id="Path_5" data-name="Path 5" d="M17.991,4.829,15.262,2.1,0,17.362,15.262,32.625,17.991,29.9,5.457,17.362Z" transform="translate(0 1.137)"/>
+      <path id="Path_6" data-name="Path 6" d="M0,0H37V37H0Z" fill="none"/>
+    </g>
+  </g>
+</svg>
